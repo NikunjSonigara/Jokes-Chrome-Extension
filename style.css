@@ -1,0 +1,19 @@
+body{
+    width: 300px;
+    background-image: url(jokes.jpg);
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    backdrop-filter: blur(4px);
+    display: inline-flex;
+    margin: 10px 10px;
+    font-size: 22px;
+    font-weight: 600;
+    color: rgb(238, 45, 148);
+    border-radius: 6px;
+    border: 2px solid darkblue;
+    padding: 10px;
+}
