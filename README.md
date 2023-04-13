@@ -1,6 +1,10 @@
 # Jokes Chrome-Extension
 This project uses HTML, CSS, and JavaScript to show arbitrary jokes. The jokes are produced by utilising an API key.
 
+<img width="249" alt="1" src="https://user-images.githubusercontent.com/106422654/231748285-46fe67ba-58f9-4630-8b2e-cc92811b43c4.png">
+
+<img width="244" alt="2" src="https://user-images.githubusercontent.com/106422654/231748326-6ebe5cc8-7147-4b7e-8572-d528907e1401.png">
+
 ## Features
 makes up jokes at random from an API using the supplied API key.
 
